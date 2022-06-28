@@ -1,1 +1,1 @@
-alrt('Hello, Momoka!');
+alart('Hello, Momoka!');
